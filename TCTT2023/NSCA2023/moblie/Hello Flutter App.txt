@@ -1,0 +1,5 @@
+A script kiddie hides a message in his application to remind himself of the password. After publishing his application, he realized that the application was built in debug mode. The message could probably be discovered using static analysis. Can you help extract the message?
+
+
+
+Download : https://drive.google.com/file/d/13c1lAvA0oQJgDKUdtU6APhkf8YK58RI_/view?usp=sharing
